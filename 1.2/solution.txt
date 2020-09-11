@@ -1,0 +1,11 @@
+➜  1.2 git:(master) docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+➜  1.2 git:(master) ✗ docker images
+REPOSITORY                                         TAG                 IMAGE ID            CREATED             SIZE
+act-wyrihaximus-github-action-wait-for-status-v1   latest              acb327b62ddf        2 months ago        570MB
+wyrihaximusgithubactions/wait-for-status           v1                  acb327b62ddf        2 months ago        570MB
+gordon/get-started                                 part2               22dd6e1349ec        19 months ago       131MB
+friendlyhello                                      latest              22dd6e1349ec        19 months ago       131MB
+renrenren/get-started                              part2               22dd6e1349ec        19 months ago       131MB
+python                                             2.7-slim            413ee88c678e        19 months ago       120MB
