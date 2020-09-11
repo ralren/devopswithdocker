@@ -1,0 +1,7 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                          PORTS               NAMES
+27ffbd4a5272        nginx               "/docker-entrypoint.…"   59 seconds ago       Up 58 seconds                   80/tcp              ecstatic_ardinghelli
+d6b46f51b73a        nginx               "/docker-entrypoint.…"   About a minute ago   Exited (0) 5 seconds ago                            objective_dirac
+1de464eccb53        postgres            "docker-entrypoint.s…"   About a minute ago   Exited (1) About a minute ago                       cranky_panini
+2f35786097a2        postgres            "docker-entrypoint.s…"   About a minute ago   Exited (1) About a minute ago                       elegant_newton
+2e1dc23b4378        postgres            "docker-entrypoint.s…"   About a minute ago   Exited (1) About a minute ago                       modest_yonath
+88c1fa27d4ee        nginx               "/docker-entrypoint.…"   2 days ago           Exited (0) 12 seconds ago                           peaceful_tesla
